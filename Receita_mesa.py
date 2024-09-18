@@ -4,6 +4,7 @@ import numpy as np
 from datetime import datetime
 import io
 import base64
+import openpyxl
 
 # Configuração da página
 st.set_page_config(
